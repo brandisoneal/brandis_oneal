@@ -14,7 +14,7 @@ I'm a a project manager, business anlayst, and product manager. One day, I'll be
 
 ## 📫 Contact Me
 - **Work Email:** boneal@eastbanctech.com or boneal@solvd.com
-- **LinkedIn:** [Brandi O'Neal](https://www.linkedin.com/in/brandis-o-neal-5ba8496/)
+- **LinkedIn:** [Brandis O'Neal](https://www.linkedin.com/in/brandis-o-neal-5ba8496/)
 
 ## ⚡ Fun Fact
 Why do all programming spaces aim to include random hobbies and interests about a person. Plus most coders like interest that are opposite of their day-to-day technical problem-solving. It's almost cliche that a programmer loves the "outdoor and spending time with his pets/family and traveling". Btw, I like those things too and whole host of stuff but you have to actually aske me in a conversation :-) 
